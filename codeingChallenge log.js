@@ -2,3 +2,4 @@
 
 
 //2/1/23 vanguard basic test
+//2/8/23 confident test simple algorithms, then abused with route learning ?'s about html and css
