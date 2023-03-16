@@ -5,3 +5,4 @@
 //2/8/23 confident test simple algorithms, then abused with route learning ?'s about html and css
 //3/4 moody though coding 2 bitwise overcomplication of hard-med problems and a sql with a fun group by with average
 // 3/5 cisco had to take in python and the accidentally submitted test after only answering the last ?
+// 3/16 koddi another python test, this time I did not early submit and managed to answer both despite a tab + space default spacing that threw errors on the first questions complicating my learning durring the challenge
