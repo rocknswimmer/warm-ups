@@ -17,7 +17,7 @@
    * @param {integer} n Total versions
    * @return {integer} The first bad version
    */
-   console.log(arguments)
+   //console.log(arguments)
    var firstBad = 1;
    while(!isBadVersion(firstBad)){
        firstBad += 5;
