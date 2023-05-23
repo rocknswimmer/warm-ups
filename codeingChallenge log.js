@@ -10,7 +10,7 @@
 // 4/6 woven, another python challenge final solution recieving an error from lack of knowledge of how to call the first function I was tasked with building in the second and ran out of time to debug due to all the other translating to python debugging I had to do like accessing an objects id using bracket notation instead of dot notation
 //4/9 citadel first problem was pretty good, second problem was all about triangles, and did not provide enough information to not have to google to find the formulas necessary to solve the problem.
 //5/4 r&r solved logic questions in a time limit around a rate of 3 per minute then over 200 questions to create a psych profile
-//5/19 betterhelps challenge at http://54.69.17.62/challenge/ from the application
+//5/19 betterhelps challenge at http://54.69.17.62/challenge/ from the application - sql saved for learning, browser fix needs more experiementation
 
 
 //logic or psych assessments
