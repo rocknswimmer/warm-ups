@@ -20,6 +20,7 @@ insert into People (fullName, streetAddress) values ("A", "9A");
 insert into People (fullName, streetAddress) values ("B", "8B");
 insert into People (fullName, streetAddress) values ("C", "7C");
 insert into People (fullName, streetAddress) values ("D", "6D");
+-- insert into People (fullName, streetAddress) values ("E", "5E")
 
 insert into Donations (People_ID, Donation_Date, Party) values (1, 1, 1)
 insert into Donations (People_ID, Donation_Date, Party) values (1, 2, 1)
@@ -42,3 +43,5 @@ insert into Donations (People_ID, Donation_Date, Party) values (4, 3, 1)
 insert into Donations (People_ID, Donation_Date, Party) values (4, 7, 1)
 
 -- need to return name, most recent donation, political party guess, Address
+-- extra-still works with no donations in
+
