@@ -25,4 +25,6 @@ array[absValue-1] *= -1
 
 array = [1,3,4,2,2]
 output = 2
+
+realize the solution has limited use cases, but wrapping the mind around concepts like these help keep it fluid enough to accept new situationally based unusual solutions.
 */
