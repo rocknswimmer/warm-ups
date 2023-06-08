@@ -11,7 +11,7 @@
 //4/9 citadel first problem was pretty good, second problem was all about triangles, and did not provide enough information to not have to google to find the formulas necessary to solve the problem.
 //5/4 r&r solved logic questions in a time limit around a rate of 3 per minute then over 200 questions to create a psych profile
 //5/19 betterhelps challenge at http://54.69.17.62/challenge/ from the application - sql saved for learning, browser fix needs more experiementation
-
+//6/8 practice for Hackathon challenge in two days got 100% on first question once I realized x did not have to be in array of numbers, so just needed to log average + 1, second I got to 96% after reducing time by only going to the square root when finding factors for numbers and updating common in the second factors loop
 
 //logic or psych assessments
 //5/18 answered 38/40 ?s in 20 mnutes
