@@ -13,7 +13,8 @@
 //5/19 betterhelps challenge at http://54.69.17.62/challenge/ from the application - sql saved for learning, browser fix needs more experiementation
 //6/8 practice for Hackathon challenge in two days got 100% on first question once I realized x did not have to be in array of numbers, so just needed to log average + 1, second I got to 96% after reducing time by only going to the square root when finding factors for numbers and updating common in the second factors loop
 //6/10 -still unsure if will start at midnight or 4 am since I have seen both times with the confirmation email not matching the time listed on the site, and the google calendar failing to save because the listed times are noon and 1:30am same day.
-//6/16 start of hacker earth june circuits, gonna take some major refactoring
+//6/16 start of hacker earth june circuits, gonna take some major refactoring. First solution 60% accepted 40% timed out after refactoring, but it jumps around with which 40% are timming out, have only 20% I have not passed
+//6/18 re - 3 js questions 2/3 done, with the third being choice tree, and not quite clear enough instructions for me to code a full function, still got 4/15 tests for that one
 
 //logic or psych assessments
 //5/18 answered 38/40 ?s in 20 mnutes
