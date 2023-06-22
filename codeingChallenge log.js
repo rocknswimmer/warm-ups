@@ -17,6 +17,7 @@
 //6/18 re - 3 js questions 2/3 done, with the third being choice tree, and not quite clear enough instructions for me to code a full function, still got 4/15 tests for that one
 //6/19 took a look at second wave of problems, had to adjust input since format in submission does not match the one in testing ground
 //6/20 passed first two cases then timed out on rest
+//6/22 shocking research results
 
 //logic or psych assessments
 //5/18 answered 38/40 ?s in 20 mnutes
