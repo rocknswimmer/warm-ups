@@ -23,7 +23,7 @@
 //5/18 answered 38/40 ?s in 20 mnutes
 //5/20 getting more and more kinda similar logic ones got like 40/50 in  15 but two were speed guess/skips
 //6/23 int commute
-
+//6/26 aptitude training
 //learning xp
 // GitLabs DevSecOps 6/15
 
