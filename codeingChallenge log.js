@@ -24,7 +24,7 @@
 //5/20 getting more and more kinda similar logic ones got like 40/50 in  15 but two were speed guess/skips
 //6/23 int commute
 //6/26 aptitude training
-//6/27 warm-up before assagnment, read instructions more carefully and solidify reasoning with double check if enough time.
+//6/27 warm-up before assagnment, read instructions more carefully and solidify reasoning with double check if enough time. 70/90 questions between a 15 for 50 and a 20 for 40
 
 //learning xp
 // GitLabs DevSecOps 6/15
