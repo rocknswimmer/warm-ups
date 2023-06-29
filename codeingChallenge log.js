@@ -18,6 +18,7 @@
 //6/19 took a look at second wave of problems, had to adjust input since format in submission does not match the one in testing ground
 //6/20 passed first two cases then timed out on rest
 //6/22 shocking research results
+//7/1 july starter ?'s from hacker Earth
 
 //logic or psych assessments
 //5/18 answered 38/40 ?s in 20 mnutes
