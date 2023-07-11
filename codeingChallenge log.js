@@ -19,6 +19,7 @@
 //6/20 passed first two cases then timed out on rest
 //6/22 shocking research results
 //7/1 july starter ?'s from hacker Earth -
+// 7/11 jp passed 9/10 on first problem due to using recusion and not knowing a fancy algorithm to speed things up. second question ran into too many translation issues
 
 //logic or psych assessments
 //5/18 answered 38/40 ?s in 20 mnutes
