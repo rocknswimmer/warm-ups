@@ -31,5 +31,5 @@
 
 //learning xp
 // GitLabs DevSecOps 6/15
-
+// t1 industry practices 7/12
 
