@@ -28,6 +28,7 @@
 //6/26 aptitude training
 //6/27 warm-up before assagnment, read instructions more carefully and solidify reasoning with double check if enough time. 70/90 questions between a 15 for 50 and a 20 for 40
 //6/28 random psych ?
+//7/18 customer supporst situations: profficient
 
 //learning xp
 // GitLabs DevSecOps 6/15
