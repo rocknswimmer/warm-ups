@@ -20,6 +20,7 @@
 //6/22 shocking research results
 //7/1 july starter ?'s from hacker Earth -
 // 7/11 jp passed 9/10 on first problem due to using recusion and not knowing a fancy algorithm to speed things up. second question ran into too many translation issues
+// 7/23 docusigns hacker earth back end 5 years xp challenge to see how I could do. The coding was easier than some entry level questions other than the language being a more gating c#. Multiple choice questions where a bit above me, but understoode what was being asked
 
 //logic or psych assessments
 //5/18 answered 38/40 ?s in 20 mnutes
